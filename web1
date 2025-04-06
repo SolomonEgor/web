@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EK Сыр и Вино</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="img/logo.png" alt="EK Сыр и Вино" class="logo" />
+    <h1>EK Сыр и Вино</h1>
+    <p>Идеальные пары: сыр и вино от экспертов</p>
+    <a href="#try" class="cta-button">Попробуй сам</a>
+  </header>
+
+  <section class="about">
+    <h2>О нас</h2>
+    <p>
+      Мы — Егор и Егор, эксперты с более чем 10-летним опытом в мире премиальных
+      сыров и вин. Наша миссия — познакомить вас с искусством сочетания этих
+      изысканных продуктов и подарить незабываемые гастрономические впечатления.
+    </p>
+  </section>
+
+  <section class="gallery">
+    <h2>Галерея</h2>
+    <div class="images">
+      <img src="img/cheese_wine1.jpg" alt="Сыр и вино 1" />
+      <img src="img/cheese_wine2.jpg" alt="Сыр и вино 2" />
+    </div>
+  </section>
+
+  <section id="try" class="cta">
+    <h2>Попробуй сам</h2>
+    <p>
+      Приглашаем вас на уникальные дегустации, где вы сможете попробовать
+      тщательно подобранные пары сыров и вин, узнать об их истории и
+      особенностях сочетания.
+    </p>
+    <a href="https://t.me/ekvinobot" class="cta-button">Записаться</a>
+  </section>
+
+  <footer>
+    <p>
+      Связь: <a href="mailto:contact@ekvino.ru">contact@ekvino.ru</a>
+    </p>
+  </footer>
+</body>
+</html>
